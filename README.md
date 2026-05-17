@@ -28,7 +28,6 @@ Gold Layer
 Power BI / Analytics
 
 ⚡ Features
-
 ✅ Azure SQL → ADLS Gen2 ingestion
 ✅ Bronze / Silver / Gold architecture
 ✅ Full load & Incremental load processing
